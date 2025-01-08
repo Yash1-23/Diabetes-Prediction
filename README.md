@@ -28,10 +28,10 @@ This project uses the following Python libraries:
    git clone https://github.com/your-username/diabetes-prediction.git
 
 
--How It Works
--Data Import: Load and inspect the dataset.
--Exploratory Data Analysis (EDA): Visualize distributions, correlations, and missing values.
--Preprocessing: Scale features and handle missing data.
--Model Training: Train multiple machine learning models and evaluate performance.
--Evaluation: Compare models using metrics like accuracy, ROC-AUC, and F1-score.
+- How It Works
+- Data Import: Load and inspect the dataset.
+- Exploratory Data Analysis (EDA): Visualize distributions, correlations, and missing values.
+- Preprocessing: Scale features and handle missing data.
+- Model Training: Train multiple machine learning models and evaluate performance.
+- Evaluation: Compare models using metrics like accuracy, ROC-AUC, and F1-score.
 

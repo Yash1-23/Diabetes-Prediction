@@ -25,7 +25,7 @@ This project uses the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
+   git clone https://github.com/Yash1-23/diabetes-prediction.git
 
 
 - How It Works
